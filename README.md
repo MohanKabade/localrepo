@@ -1,1 +1,1 @@
-## Pratice git commands 
+# Pratice git commands 
